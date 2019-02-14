@@ -6,53 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>1BEA704B-8401-43C0-A6D2-AC4364F96CC2</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.static</string>
-			<key>fileName</key>
-			<string>1BEA704B-8401-43C0-A6D2-AC4364F96CC2.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>signature</key>
-			<string>glfw-bmyeckdrnyigzjeuqjczeonwyyic</string>
-			<key>timeStartedRecording</key>
-			<real>571794065.53097904</real>
-			<key>timeStoppedRecording</key>
-			<real>571794065.53984106</real>
-			<key>title</key>
-			<string>Build target glfw</string>
-			<key>uniqueIdentifier</key>
-			<string>1BEA704B-8401-43C0-A6D2-AC4364F96CC2</string>
-		</dict>
-		<key>2D625F78-E9FF-4168-8CBB-C44B42405661</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
-			<key>fileName</key>
-			<string>2D625F78-E9FF-4168-8CBB-C44B42405661.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>signature</key>
-			<string>ZERO_CHECK-bmyeckdrnyigzjeuqjczeonwyyic</string>
-			<key>timeStartedRecording</key>
-			<real>571794065.51360095</real>
-			<key>timeStoppedRecording</key>
-			<real>571794065.82727003</real>
-			<key>title</key>
-			<string>Build target ZERO_CHECK</string>
-			<key>uniqueIdentifier</key>
-			<string>2D625F78-E9FF-4168-8CBB-C44B42405661</string>
-		</dict>
-		<key>81E4D0F9-1240-439F-A613-C1410F002F60</key>
+		<key>2F7D62A5-5BFE-4B8C-960C-517856B8BDB2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -61,19 +15,65 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>81E4D0F9-1240-439F-A613-C1410F002F60.xcactivitylog</string>
+			<string>2F7D62A5-5BFE-4B8C-960C-517856B8BDB2.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>signature</key>
 			<string>A2-bmyeckdrnyigzjeuqjczeonwyyic</string>
 			<key>timeStartedRecording</key>
-			<real>571794065.70542395</real>
+			<real>571858535.82280898</real>
 			<key>timeStoppedRecording</key>
-			<real>571794069.60478497</real>
+			<real>571858540.46128595</real>
 			<key>title</key>
 			<string>Build target A2</string>
 			<key>uniqueIdentifier</key>
-			<string>81E4D0F9-1240-439F-A613-C1410F002F60</string>
+			<string>2F7D62A5-5BFE-4B8C-960C-517856B8BDB2</string>
+		</dict>
+		<key>60077FE5-56E7-4815-A642-CA2909B6602B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.static</string>
+			<key>fileName</key>
+			<string>60077FE5-56E7-4815-A642-CA2909B6602B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>glfw-bmyeckdrnyigzjeuqjczeonwyyic</string>
+			<key>timeStartedRecording</key>
+			<real>571858535.55699003</real>
+			<key>timeStoppedRecording</key>
+			<real>571858535.56556904</real>
+			<key>title</key>
+			<string>Build target glfw</string>
+			<key>uniqueIdentifier</key>
+			<string>60077FE5-56E7-4815-A642-CA2909B6602B</string>
+		</dict>
+		<key>C496AE29-07C5-49FC-9E86-2F35EDFBD9CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>C496AE29-07C5-49FC-9E86-2F35EDFBD9CF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>ZERO_CHECK-bmyeckdrnyigzjeuqjczeonwyyic</string>
+			<key>timeStartedRecording</key>
+			<real>571858535.55694401</real>
+			<key>timeStoppedRecording</key>
+			<real>571858536.04969299</real>
+			<key>title</key>
+			<string>Build target ZERO_CHECK</string>
+			<key>uniqueIdentifier</key>
+			<string>C496AE29-07C5-49FC-9E86-2F35EDFBD9CF</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
